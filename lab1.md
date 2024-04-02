@@ -1,12 +1,22 @@
-# For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
+## For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 
+*cd*
 - Share an example of using the command with no arguments.
 - Share an example of using the command with a path to a directory as an argument.
 - Share an example of using the command with a path to a file as an argument.
 
+  *ls*
+- Share an example of using the command with no arguments.
+- Share an example of using the command with a path to a directory as an argument.
+- Share an example of using the command with a path to a file as an argument.
+
+  *cat*
+- Share an example of using the command with no arguments.
+- Share an example of using the command with a path to a directory as an argument.
+- Share an example of using the command with a path to a file as an argument.
 So that's 9 total examples (3 for each command). For each of the 9 examples, include:
 
-# A screenshot or Markdown code block showing the command and its output.
+# Include a screenshot or Markdown code block showing the command and its output for each example (9).
 - What the absolute path to the working directory was right before the command was run.
 - A sentence or two explaining why you got that output (e.g. what was in the filesystem, what it meant to have no arguments).
 - Indicate explicitly whether the output is an error or not, and if it's an error, explain why it's an error in one or two sentences.
