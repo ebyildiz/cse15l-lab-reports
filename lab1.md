@@ -48,6 +48,6 @@
   + output is not an error
 - Share an example of using the command with a path to a file as an argument.
   + <img width="568" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/4f841f8f-f617-4581-a027-96c932051bfb">
-  + with an argumnet as a path to a file, `cat`  works as it functions to. It outputs the content of the given file.
+  + with an argument as a path to a file, `cat`  works as it functions to. It outputs the content of the given file.
   + output is not an error
 
