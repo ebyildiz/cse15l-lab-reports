@@ -3,6 +3,9 @@
 
 *cd*
 - Share an example of using the command with no arguments.
+  <img width="366" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/3a15c191-8309-48db-a909-a84c8cbd63e0">
+
+
 - Share an example of using the command with a path to a directory as an argument.
 - Share an example of using the command with a path to a file as an argument.
 
