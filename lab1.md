@@ -1,7 +1,7 @@
 # Lab Report 1
 ## For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 
-`cd`
+### `cd`
 - Share an example of using the command with no arguments.
   + <img width="366" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/3a15c191-8309-48db-a909-a84c8cbd63e0">
   + the directory before was lecture1 and after putting in `cd` with no arguments, it went back to the home directory
@@ -18,7 +18,7 @@
   + the reason for this error is because cd is used to switch directories, it can open a specific folder for you or go back to the previous or home directory. However, in this case we gave a file path as an argument which cd is not functioned to open
   + output is an error like mentioned above
 
-`ls`
+### `ls`
 - Share an example of using the command with no arguments.
   + <img width="460" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/b024d473-0de7-49cb-a786-86a400013169">
   + the absolute path does not change at all as `ls` is not functioned to switch directories like `cd`: it's still the home directory
@@ -36,7 +36,7 @@
   + output is not an error
 
 
-`cat`
+### `cat`
 - Share an example of using the command with no arguments.
   + 
 - Share an example of using the command with a path to a directory as an argument.
