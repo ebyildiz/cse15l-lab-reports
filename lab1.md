@@ -7,6 +7,9 @@
   + the file directory before was lecture1 and after putting in `cd` with no arguments, it went back to the home directory
   + `cd` is used for going to a specific directory and if it's used with no arguments, it goes back to the main directory since there was no directoy specified as an argument
 - Share an example of using the command with a path to a directory as an argument.
+  + <img width="352" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/e779cad0-c328-4962-af2c-85613294f64a">
+  + the file directory before was the home directory and when I used `cd` with the argument "lecture1" it switched the directory to the lecture1 folder
+  + since this time, `cd` was used with a specific directory as an argument, it switched to the specified directory as it functions to do so
 - Share an example of using the command with a path to a file as an argument.
 
 `ls`
