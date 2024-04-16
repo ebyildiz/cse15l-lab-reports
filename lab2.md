@@ -3,10 +3,11 @@ import java.io.IOException;
 import java.net.URI;
 import java.util.Arrays;
 
-`class Handler implements URLHandler {
+```
+class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
-    String history ="";
+    String history ="";`
 
     public String handleRequest(URI url) {
         String path = url.getPath();
@@ -22,10 +23,8 @@ import java.util.Arrays;
         } 
             return "You are missing something";
         }
-    }
-
-
-class ChatServer {
+    } 
+    class ChatServer {
     public static void main(String[] args) throws IOException {
         if(args.length == 0){
             System.out.println("Missing port number! Try any number between 1024 to 49151");
@@ -36,4 +35,8 @@ class ChatServer {
 
         Server.start(port, new Handler());
     }
-} `
+} 
+```
+
+<img width="86" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/fe6ce8c9-b712-457d-b697-eef13a6883a8">
+
