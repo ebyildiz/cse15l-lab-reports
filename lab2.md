@@ -41,6 +41,7 @@ class Handler implements URLHandler {
 
 ### First Picture:
 <img width="200" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/fe6ce8c9-b712-457d-b697-eef13a6883a8"> 
+
 + Which methods in your code are called?
     - `handleRequest` in the `Handler` class and the `main` method in my `Chat Server` class
 + What are the relevant arguments to those methods, and the values of any relevant fields of the class?
@@ -50,6 +51,7 @@ class Handler implements URLHandler {
 
 ### Second Picture:
 <img width="300" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/868aba84-a2c4-489d-a0e1-59f37d1c3c57">
+
 + Which methods in your code are called?
     - `handleRequest` in the `Handler` class and the `main` method in my `Chat Server` class
 + What are the relevant arguments to those methods, and the values of any relevant fields of the class?
@@ -60,8 +62,10 @@ class Handler implements URLHandler {
 ## Part Two
 + On the command line of your computer, run `ls` with the absolute path to the private key for your SSH key for logging into ieng6.
       <img width="279" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/36963318-5a73-4bfb-a6a5-ecc1b46d9714">
+
 + On the command line of the ieng6 machine, run `ls` with the absolute path to the public key for your SSH key for logging into ieng6 (this is the one you copied to your account on ieng6 using ssh-copy-id, so it should be a path on ieng6's file system).
       <img width="611" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/564a3ec2-8baf-4aae-8d16-2a61602527b3">
+
 + A terminal interaction where you log into your ieng6 account without being asked for a password.
       <img width="546" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/5beb7d1e-71af-4cbd-8a62-832f39361c1c">
 
