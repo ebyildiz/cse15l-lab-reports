@@ -38,5 +38,6 @@ class Handler implements URLHandler {
 } 
 ```
 
-<img width="86" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/fe6ce8c9-b712-457d-b697-eef13a6883a8">
+<img width="200" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/fe6ce8c9-b712-457d-b697-eef13a6883a8">
+<img width="200" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/868aba84-a2c4-489d-a0e1-59f37d1c3c57">
 
