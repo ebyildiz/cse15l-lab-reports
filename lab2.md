@@ -47,7 +47,8 @@ class Handler implements URLHandler {
 + What are the relevant arguments to those methods, and the values of any relevant fields of the class?
     - the argument for user at first is `annoying` and they say 'HI' three times. So the argument for the message was 'HI' and I used the same path 3 times to make the annoying user realistic. Then the argument changes for user to 'mean' and the message to 'CHILL' because it's a mean user.
 + How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
-    - the history changes! the history keeps all the messages that has been sent in the server. So it gets updated every time someone uses the server to add a message
+    - the history changes! the history keeps all the messages that has been sent in the server. So it gets updated every time someone uses the server to add a message.
+    - For example, the history before putting in any commands, was just an empty string. But whenever someone put a message on a server, aka ran the program, it got updated. With first message, the string became `"annoying: HI\n"`. With the last update, history became `"annoying: HI\nannoying: HI\nannoying: HI\nmean:CHILL"`
 
 ### Second Picture:
 <img width="300" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/868aba84-a2c4-489d-a0e1-59f37d1c3c57">
