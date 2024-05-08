@@ -8,10 +8,10 @@ Provide:
  - `int[] input = [1, 2, 3];` (multiple elements in the list with different values each) 
 
 ``@Test ``__``
-  public void replaceInPlaceTest(){  ``__``
-   int[] input = {1};  ``__``
-   ArrayExamples.reverseInPlace(input);  ``__``
-   assertArrayEquals(new int[]{1}, input);  ``__``
+  public void replaceInPlaceTest(){  __
+   int[] input = {1};  __
+   ArrayExamples.reverseInPlace(input); __
+   assertArrayEquals(new int[]{1}, input);  __
     } `` 
     
 + An input that doesn't induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown).
