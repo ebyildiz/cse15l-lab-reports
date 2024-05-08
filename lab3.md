@@ -8,21 +8,21 @@ Provide:
  - `int[] input = [1, 2, 3];` (multiple elements in the list with different values each)
 
 ``@Test
-  public void replaceInPlaceTest(){
-    int[] input = {1};
-    ArrayExamples.reverseInPlace(input);
-    assertArrayEquals(new int[]{1}, input);
-    }``
+  <br> public void replaceInPlaceTest(){
+   <br> int[] input = {1};
+   <br> ArrayExamples.reverseInPlace(input);
+   <br> assertArrayEquals(new int[]{1}, input);
+    } ``
     
 + An input that doesn't induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown).
   - `int[] input = {1};` (when there is only one element in the input list) or when all the elements are the same value
 
-`  @Test
-  public void replaceInPlaceTest2(){
-    int[] input = {1,2,3};
-    ArrayExamples.reverseInPlace(input);
-    assertArrayEquals(new int[]{3,2,1}, input);
-  }`
+``  @Test
+  <br> public void replaceInPlaceTest2(){
+   <br> int[] input = {1,2,3};
+    <br> ArrayExamples.reverseInPlace(input);
+    <br> assertArrayEquals(new int[]{3,2,1}, input);
+  } ``
 + The symptom, as the output of running the two tests above (provide it as a screenshot -- one test should pass, one test should fail).
   - <img width="355" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/5a4972e6-b9a9-4253-a76a-88a3cf505de3">
   - <img width="359" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/45df4957-a64a-401f-a9dd-04f2b858f4af">
