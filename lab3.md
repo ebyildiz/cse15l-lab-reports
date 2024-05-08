@@ -43,4 +43,21 @@ Provide:
  - I already said it in my explanation, but the fix addresses the issue since it also assigns the element at index arr.length - i - 1 to the element used to be in index i. This way that actually replaces places, when before, it was only copying the elements at the end of the list to the beginning of the list and not reversing the items.
 
 ## PART 2
+### I chose `grep` for part 2. 
++ The first useful feature of this command it to find files or directories that contains a specific string by using `-w`. It's useful for checking if the information we are looking for is in a file especially if it has long text. Here are the two examples where my pwd is ~/technical and then ~/technical/biomed
+  - <img width="332" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/58c857b6-35a3-44ce-8fc2-9814a476f5c9">
+  - <img width="468" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/803efda9-b120-41ab-953b-4238f2f4f17c">
 
++ The second interesting feature is that you can make the files display only the parts where the specific string appears with option `-o`. And the other parts won't be displayed. I think it's a good way of seeing how often a specific text appears in a file if we want to see if the file contains enough information about what we are looking for and is worth to look at. Here are the examples where my pwd is ~/technical/biomed:
+ - <img width="361" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/7f33a7ee-bc57-4292-80a1-561c14a6708e">
+ - <img width="388" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/134d61bb-3e23-4ad0-b9f6-621cd56251f2">
+
++ The third option is `-n` which allows you to get the line index of a file where the line is matched. That way the specific lines can be found more easily when we are looking at the file. Here are the examples (my pwd is still the same):
+  - <img width="466" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/1f749e43-bf7a-4bdc-b29c-8c024a27f48e">
+  - <img width="440" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/cd8a0298-dee3-4a89-a4ec-4cfa02fe4040">
+
++ The last option I chose is `-v` which helps you to only show the lines of a file where the string specified is not matching. It is useful when we have a file that is repeating itself with information that is not useful for us, so we can exclude it. Here are the examples where my pwd is the same:
+  - <img width="442" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/056b4376-35a9-4319-b94e-db534c08dd41">
+  - <img width="478" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/864053c8-d6ec-4d91-8a2e-76301237c23d">
+
+### [sources used] (https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
