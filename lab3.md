@@ -6,12 +6,12 @@ Provide:
 
 + A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown).
  - `int[] input = [1, 2, 3];` (multiple elements in the list with different values each)
-`   @Test
+``@Test
   public void replaceInPlaceTest(){
     int[] input = {1};
     ArrayExamples.reverseInPlace(input);
     assertArrayEquals(new int[]{1}, input);
-    }`
+    }``
 + An input that doesn't induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown).
   - `int[] input = {1};` (when there is only one element in the input list) or when all the elements are the same value
   - `  @Test
