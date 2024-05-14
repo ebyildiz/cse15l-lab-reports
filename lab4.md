@@ -6,7 +6,7 @@
 
 ### keys used
 
-`ssh<space>eyildiz@ieng6.ucsd.edu`
+`ssh<space>eyildiz@ieng6.ucsd.edu<space>`
 
 `git<space>clone<space>git@github.com:ebyildiz/lab7-cse15l.git<enter>`
 
