@@ -1,4 +1,10 @@
+## LAB REPORT 4
+
+### screenshot
+
 <img width="808" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/896b28b3-c777-4ae9-80ae-a697dda914c6">
+
+### keys used
 
 `ssh<space>eyildiz@ieng6.ucsd.edu`
 
@@ -17,3 +23,5 @@
 `git<space>commit<space>-m<space>"fixed"<enter>`
 
 `git<space>push<enter>`
+
+### summary
