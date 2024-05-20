@@ -2,9 +2,13 @@
 
 ### screenshot
 
-<img width="808" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/896b28b3-c777-4ae9-80ae-a697dda914c6">
+<img width="471" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/8567b388-b17c-46fd-bfd5-4262ff9eead8">
 
-It might look like I skipped some steps. This is because the file was already there, and it was already edited (so the tests would pass. But in the next step, I will include all the code that I did the first time when the implementation was incorrect. 
+<img width="503" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/be075812-2b44-4233-8f31-ee9f753d95ff">
+
+
+
+
 
 ### keys used
 
