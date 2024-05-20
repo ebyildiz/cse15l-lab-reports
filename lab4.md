@@ -12,7 +12,7 @@
 
 
 
-### keys used
+## keys used
 
 `ssh<space>eyildiz@ieng6.ucsd.edu<enter>`
 
@@ -32,7 +32,7 @@
 
 `git<space>push<enter>`
 
-### summary
+## summary
 
 + `ssh` helped me connect to the ieng6 server, then I cloned the github repository that I forked using `git clone` and then the ssh link. After that, I changed my directory to the github folder to test my java files.
 + `sh` helped me test my ListExamples.java file using the lines in `test.sh`. After this, some tests will fail due to an error in ListExamples
