@@ -1,8 +1,11 @@
 ## LAB REPORT 4
 
-### screenshot
+## screenshot
 
+### first
 <img width="471" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/8567b388-b17c-46fd-bfd5-4262ff9eead8">
+
+### second
 <img width="503" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/be075812-2b44-4233-8f31-ee9f753d95ff">
 
 
