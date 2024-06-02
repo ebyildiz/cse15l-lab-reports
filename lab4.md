@@ -2,7 +2,7 @@
 
 # steps
 
-1+ Log into ieng6
+1 + Log into ieng6
 `ssh<space>eyildiz@ieng6.ucsd.edu<enter>`
 
 
