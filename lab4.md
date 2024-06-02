@@ -39,23 +39,23 @@
 
 + `/cha<enter>JLLLI<backspace>2<esc>:wq<enter>`
 
-   - after pressing </cha> : 
+   - after pressing `/cha` : 
 
 <img width="389" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/04891b5b-4b24-47fb-a079-9f95b2b20bbf">
 
-   - after pressing <JLLLI>:
+   - after pressing `JLLLI`:
 
 <img width="325" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/81f50b47-69d7-4163-b840-89ab4da0d96c">
 
-   - after pressing <backspace>2
+   - after pressing `<backspace>2`
 
 <img width="409" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/33c95ba9-46bc-495c-890c-317fd745d8ac">
 
-   - <esc> and :wq
+   - `<esc>` and `:wq`
 
 <img width="403" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/b525a20f-6adf-4e3f-8a93-e61f4bbdc536">
 
-   - <enter> finally
+   - `<enter>` finally
 
 <img width="506" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/f46ca762-a412-4540-8766-14b0b330aca4">
 
