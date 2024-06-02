@@ -1,20 +1,10 @@
 ## LAB REPORT 4
 
-## screenshot
+# steps
 
-### first
-<img width="471" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/8567b388-b17c-46fd-bfd5-4262ff9eead8">
-
-### second
-<img width="503" alt="image" src="https://github.com/ebyildiz/cse15l-lab-reports/assets/131305803/be075812-2b44-4233-8f31-ee9f753d95ff">
-
-
-
-
-
-## keys used
-
+1+ Log into ieng6
 `ssh<space>eyildiz@ieng6.ucsd.edu<enter>`
+
 
 `git<space>clone<space>git@github.com:ebyildiz/lab7-cse15l.git<enter>`
 
